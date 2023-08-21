@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Burak<br>I am a programmer from Turkey, beginner in Python, Currently learning C development.<br>In my free time, I work on open source Projects.</h2>
+<h2 align="center">Hi 👋, I'm Burak<br>I am a programmer from Turkey, beginner in Golang, Currently learning C development.<br>In my free time, I work on open source Projects.</h2>
 
 ###
 
