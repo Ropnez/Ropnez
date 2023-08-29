@@ -47,6 +47,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Ropnez/Ropnez/8bcfe669836298cdf92620cf19a2e12f20e76618/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ropnez/ropnez/output/snake.svg" alt="Snake animation" />
 
 ###
 
