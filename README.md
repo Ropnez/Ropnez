@@ -1,14 +1,5 @@
 <h2 align="center">Hi 👋, I'm Burak<br>I am a programmer from Turkey, beginner in Go, Currently learning C development.<br>In my free time, I work on open source Projects.</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ropnez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ropnez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ropnez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <br clear="both">
 
@@ -33,22 +24,14 @@
   <a href="https://www.instagram.com/lburakyilmazl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/Ropnez#1703" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="center">info@burakyilmaz.me</p>
+<p align="center">info@burak.tc</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ropnez/Ropnez/8bcfe669836298cdf92620cf19a2e12f20e76618/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ropnez/count.svg?"  />
